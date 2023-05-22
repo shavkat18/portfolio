@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43c26d68-c960-49b3-88e9-6c0b62c4c742" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fPIKGnxqynlLqAeVtRcRp5xybN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\css\css animated example\index\css\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\css\css animated example\index\img" />
+      <recent name="D:\css\css animated example\index\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43c26d68-c960-49b3-88e9-6c0b62c4c742" name="Default Changelist" comment="" />
+      <created>1596113235522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596113235522</updated>
+      <workItem from="1596113237474" duration="32913000" />
+      <workItem from="1596701284582" duration="2110000" />
+      <workItem from="1596799979394" duration="5580000" />
+      <workItem from="1596805926299" duration="1485000" />
+      <workItem from="1597051950899" duration="1241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1985" y="99" key="#Inspections" timestamp="1596367456485">
+      <screen x="1920" y="0" width="1536" height="834" />
+    </state>
+    <state x="1985" y="99" key="#Inspections/0.0.1536.834/1920.0.1536.834@1920.0.1536.834" timestamp="1596367456485" />
+  </component>
+</project>

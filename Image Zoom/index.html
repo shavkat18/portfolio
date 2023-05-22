@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Image Zoom</title>
+	<link rel="stylesheet" href="css/main.css" type="text/css">
+
+	<script
+  src="https://code.jquery.com/jquery-3.5.1.js"
+  integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+  crossorigin="anonymous"></script>
+
+  <script type="text/javascript">
+  	$(window).scroll(function(){
+  		var	scroll = $(window).scrollTop();
+  		$(".zoom img").css({
+  			width: (100 + scroll/5) + "%"
+  		})
+  	})
+  </script>
+</head>
+<body>
+	<section class="zoom">
+		<img src="image/avto-retro-starina-1.jpg" alt="error">
+	</section>
+	<section></section>
+</body>
+</html>>

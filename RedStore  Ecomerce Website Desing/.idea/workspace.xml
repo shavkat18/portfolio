@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc939b6e-f17a-422b-8a2e-9cedf3f915fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fu6a2wTITKDJFfWEnIkyvjgKZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win10\Desktop\Новая папка\css" />
+      <recent name="C:\Users\win10\Desktop\Новая папка\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc939b6e-f17a-422b-8a2e-9cedf3f915fa" name="Default Changelist" comment="" />
+      <created>1597055690972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597055690972</updated>
+      <workItem from="1597055692180" duration="929000" />
+      <workItem from="1597058051480" duration="7793000" />
+      <workItem from="1597159843058" duration="1391000" />
+      <workItem from="1597208398435" duration="1446000" />
+      <workItem from="1597424434786" duration="653000" />
+      <workItem from="1597473270233" duration="626000" />
+      <workItem from="1597578977100" duration="4292000" />
+      <workItem from="1597646744937" duration="6706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="61" y="196" key="EditFileWatcherDialog" timestamp="1597067495067">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="61" y="196" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1597067495067" />
+    <state x="165" y="175" key="FileChooserDialogImpl" timestamp="1597650080299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="165" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1597650080299" />
+    <state x="184" y="276" key="scopes" timestamp="1597067493345">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="184" y="276" key="scopes/0.0.1536.834@0.0.1536.834" timestamp="1597067493345" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1597055744703">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1597055744703" />
+  </component>
+</project>
